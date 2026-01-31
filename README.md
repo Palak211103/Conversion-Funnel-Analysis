@@ -142,5 +142,5 @@ jupyter notebook
 
 ---
 
-⭐ *If you find this project helpful, feel free to star the
+⭐ *If you find this project helpful, feel free to star the repository and share your feedback
 
