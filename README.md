@@ -1,9 +1,7 @@
 # Conversion-Funnel-Analysis
-This project focuses on analyzing a conversion funnel to understand user behavior across different stages, identify drop-offs, and measure conversion rates. Using data analytics techniques, it provides actionable insights to optimize the funnel, improve user journey efficiency, and support data-driven business decisions.
 
-# Conversion-Funnel-Analysis
 
-## 📘 Project Overview
+##  Project Overview
 
 Conversion Funnel Analysis is a data analytics project designed to study how users progress through different stages of a funnel and where they drop off. The goal is to measure conversion efficiency, identify bottlenecks, and generate insights that can help improve user experience and business performance.
 
@@ -11,7 +9,7 @@ This project demonstrates end-to-end analytical thinking — from data preproces
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Understand user behavior at each funnel stage
 * Identify high drop-off points in the funnel
@@ -21,7 +19,7 @@ This project demonstrates end-to-end analytical thinking — from data preproces
 
 ---
 
-## 🧰 Tech Stack & Tools
+##  Tech Stack & Tools
 
 ### Programming & Analysis
 
@@ -41,7 +39,7 @@ This project demonstrates end-to-end analytical thinking — from data preproces
 
 ---
 
-## 📊 Analysis Workflow
+##  Analysis Workflow
 
 1. **Data Loading & Inspection**
 
@@ -70,7 +68,7 @@ This project demonstrates end-to-end analytical thinking — from data preproces
 
 ---
 
-## 📈 Visualizations Included
+##  Visualizations Included
 
 * Funnel chart showing user drop-offs
 * Conversion rate comparison across stages
@@ -80,7 +78,7 @@ Visual outputs are saved as images and dashboards for easy interpretation.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── Funnel Analysis.ipynb         # Python notebook with full analysis
@@ -92,12 +90,12 @@ Visual outputs are saved as images and dashboards for easy interpretation.
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Palak211103/Conversion-Funnel-Analysis>
 ```
 
 2. Install required dependencies:
@@ -116,7 +114,7 @@ jupyter notebook
 
 ---
 
-## 📌 Key Outcomes & Insights
+##  Key Outcomes & Insights
 
 * Identified funnel stages with maximum user drop-off
 * Quantified conversion efficiency at each stage
@@ -125,7 +123,7 @@ jupyter notebook
 
 ---
 
-## 💼 Use Cases
+##  Use Cases
 
 * Marketing funnel optimization
 * Product analytics and user journey analysis
@@ -134,7 +132,7 @@ jupyter notebook
 
 ---
 
-## 🏷️ Skills Demonstrated
+##  Skills Demonstrated
 
 * Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
